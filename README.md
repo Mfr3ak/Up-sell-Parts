@@ -11,3 +11,5 @@ Part recommendation is done at two levels.
   2. Based on Vehicle Class
  
 The final recommendation is a conbination of both the recommendations.
+
+Most of the code is data cleaning with all the calculations performed in the Tableau Dashboard
